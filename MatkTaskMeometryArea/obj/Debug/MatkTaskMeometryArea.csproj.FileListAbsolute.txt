@@ -1,0 +1,10 @@
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\bin\Debug\MatkTaskMeometryArea.exe.config
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\bin\Debug\MatkTaskMeometryArea.exe
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\bin\Debug\MatkTaskMeometryArea.pdb
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.csprojAssemblyReference.cache
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.MainForm.resources
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.Properties.Resources.resources
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.csproj.GenerateResource.cache
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.csproj.CoreCompileInputs.cache
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.exe
+C:\Users\XoKaGe\Desktop\MatkTaskMeometryArea\MatkTaskMeometryArea\obj\Debug\MatkTaskMeometryArea.pdb
